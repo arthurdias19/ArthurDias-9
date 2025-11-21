@@ -11,19 +11,19 @@
 
 ## 🟡 In Progress (Em Progresso)
 **Backend:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original-wordmark.svg" width="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>  
 
 **Frontend:**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react-router/react-router-original.svg" width="40"/>  
 
 ---
 
 ## 🔵 Later (Futuro)
 <img src="https://cdn-icons-png.flaticon.com/512/1006/1006553.png" width="40" title="UI/UX"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/N8N_Logo.png" width="40" title="n8n"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" width="40" title="n8n"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React Native"/>  
 
 ---
